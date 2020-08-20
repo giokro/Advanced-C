@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(299,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(323,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(727,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(759,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(1041,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(1065,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(941): warning C4715: 'Data::InsertSubgroup': not all control paths return a value
+C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\ConsoleApplication1\ConsoleApplication1.cpp(897): warning C4715: 'Data::InsertItem': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Gio\Desktop\Advanced-C-master\Advanced C\Debug\ConsoleApplication1.exe
